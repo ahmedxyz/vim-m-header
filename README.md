@@ -1,7 +1,7 @@
 # vim-m-header
 vim header for the UM community
 
-![fancy header image](https://imgur.com/z4bjiyv)
+![fancy header image](https://i.imgur.com/z4bjiyv.png)
 
 ## Features
 * Adds cool block M to the top of your code file
@@ -32,6 +32,7 @@ let g:uniqname='your_uniqname'
 let g:email='your_email'
 ```
 
-## Credit
+## Credits
 [42Paris](https://github.com/42Paris/42header)
+
 [pbondoer](https://github.com/pbondoer/vim-42header)
