@@ -24,12 +24,11 @@ If you use vim-plug or any other plugin manager, simply add this line to your
 Plug 'ahmedxyz/vim-m-header'
 ```
 
-### Setting uniqname and email
-Add these lines to your `.vimrc`:
+### Setting uniqname
+Add this line to your `.vimrc`:
 
 ```vim
 let g:uniqname='your_uniqname'
-let g:email='your_email'
 ```
 
 ## Credits

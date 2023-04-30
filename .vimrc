@@ -17,9 +17,8 @@ set background=dark
 let g:everforest_background='hard'
 let g:everforest_transparent_background=1
 
-" Mheader plugin variables
+" Mheader plugin variable
 let g:uniqname='ahmedxyz'
-let g:email='ahmedxyz@umich.edu'
 
 " Enable incremental search and highlight search results
 set incsearch
